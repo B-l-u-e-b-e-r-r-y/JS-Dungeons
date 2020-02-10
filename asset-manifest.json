@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/JS-Dungeons/multiplication-table/static/css/main.fafb6746.chunk.css",
-    "main.js": "/JS-Dungeons/multiplication-table/static/js/main.2742d281.chunk.js",
-    "main.js.map": "/JS-Dungeons/multiplication-table/static/js/main.2742d281.chunk.js.map",
-    "runtime-main.js": "/JS-Dungeons/multiplication-table/static/js/runtime-main.ffc304e2.js",
-    "runtime-main.js.map": "/JS-Dungeons/multiplication-table/static/js/runtime-main.ffc304e2.js.map",
-    "static/js/2.c6fa6d0c.chunk.js": "/JS-Dungeons/multiplication-table/static/js/2.c6fa6d0c.chunk.js",
-    "static/js/2.c6fa6d0c.chunk.js.map": "/JS-Dungeons/multiplication-table/static/js/2.c6fa6d0c.chunk.js.map",
-    "index.html": "/JS-Dungeons/multiplication-table/index.html",
-    "precache-manifest.1c8475affccf0dcd3533f810f1003c76.js": "/JS-Dungeons/multiplication-table/precache-manifest.1c8475affccf0dcd3533f810f1003c76.js",
-    "service-worker.js": "/JS-Dungeons/multiplication-table/service-worker.js",
-    "static/css/main.fafb6746.chunk.css.map": "/JS-Dungeons/multiplication-table/static/css/main.fafb6746.chunk.css.map",
-    "static/js/2.c6fa6d0c.chunk.js.LICENSE": "/JS-Dungeons/multiplication-table/static/js/2.c6fa6d0c.chunk.js.LICENSE"
+    "main.css": "/JS-Dungeons/static/css/main.fafb6746.chunk.css",
+    "main.js": "/JS-Dungeons/static/js/main.5e5f49c9.chunk.js",
+    "main.js.map": "/JS-Dungeons/static/js/main.5e5f49c9.chunk.js.map",
+    "runtime-main.js": "/JS-Dungeons/static/js/runtime-main.c0537022.js",
+    "runtime-main.js.map": "/JS-Dungeons/static/js/runtime-main.c0537022.js.map",
+    "static/js/2.c6fa6d0c.chunk.js": "/JS-Dungeons/static/js/2.c6fa6d0c.chunk.js",
+    "static/js/2.c6fa6d0c.chunk.js.map": "/JS-Dungeons/static/js/2.c6fa6d0c.chunk.js.map",
+    "index.html": "/JS-Dungeons/index.html",
+    "precache-manifest.c63a72abecb3e3db623f28411a822b2c.js": "/JS-Dungeons/precache-manifest.c63a72abecb3e3db623f28411a822b2c.js",
+    "service-worker.js": "/JS-Dungeons/service-worker.js",
+    "static/css/main.fafb6746.chunk.css.map": "/JS-Dungeons/static/css/main.fafb6746.chunk.css.map",
+    "static/js/2.c6fa6d0c.chunk.js.LICENSE": "/JS-Dungeons/static/js/2.c6fa6d0c.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffc304e2.js",
+    "static/js/runtime-main.c0537022.js",
     "static/js/2.c6fa6d0c.chunk.js",
     "static/css/main.fafb6746.chunk.css",
-    "static/js/main.2742d281.chunk.js"
+    "static/js/main.5e5f49c9.chunk.js"
   ]
 }
