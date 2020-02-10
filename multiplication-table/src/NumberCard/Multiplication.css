@@ -1,0 +1,11 @@
+.multiplication {
+    display: flex;
+}
+
+.multiplication span {
+    font-size: 24px;
+    letter-spacing: 0;
+    color: #2EB738;
+    opacity: 1;
+    margin: 4px 0px;
+}

@@ -1,0 +1,50 @@
+.title {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 366px;
+  width: 350px;
+}
+
+.title .lines {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1px;
+  width: 280px;
+  background-color: #2eb738;
+}
+
+.title .lines::before {
+  position: absolute;
+  left: 0px;
+  content: "x";
+  color: #2eb738;
+}
+
+.title .lines::after {
+  position: absolute;
+  right: 0px;
+  content: "x";
+  color: #2eb738;
+}
+
+.title .text {
+  display: flex;
+  flex-direction: column;
+  color: #2eb738;
+}
+
+.title .text h1 {
+  font-family: 微軟正黑體;
+  font-size: 56px;
+  margin: 0px;
+}
+
+.title .text h2 {
+  font-weight: normal;
+  font-size: 24px;
+  margin: 0px;
+}
